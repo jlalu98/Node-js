@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "web-scraper": "^1.0.10",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
